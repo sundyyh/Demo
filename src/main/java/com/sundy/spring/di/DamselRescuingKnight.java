@@ -1,4 +1,4 @@
-package com.sundy.spring.knights;
+package com.sundy.spring.di;
 
 /**解救少女的骑士*/
 public class DamselRescuingKnight implements Knight {

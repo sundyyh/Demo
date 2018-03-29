@@ -1,4 +1,4 @@
-package com.sundy.spring.knights;
+package com.sundy.spring.di;
 
 public interface Quest {
 
